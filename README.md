@@ -4,7 +4,7 @@ Project Android ini terdiri dari beberapa komponen utama yang saling terhubung, 
 ## Identitas
 - Nama: Reva Septia Wulandari  
 - NIM: H1D023029  
-- Shift Baru: D  
+- Shift Baru: F 
 
 ## Tampilan Aplikasi
 <img width="279" height="618" alt="image" src="https://github.com/user-attachments/assets/97e0eea4-6dad-4ef7-b4f0-d07a83458d04" />
