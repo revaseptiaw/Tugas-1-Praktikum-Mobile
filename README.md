@@ -9,3 +9,6 @@ Project Android ini terdiri dari beberapa komponen utama yang saling terhubung, 
 ## Tampilan Aplikasi
 <img width="279" height="618" alt="image" src="https://github.com/user-attachments/assets/97e0eea4-6dad-4ef7-b4f0-d07a83458d04" />
 
+### Tampilan Aplikasi Tugas 2 Pertemuan 3
+![Image](https://github.com/user-attachments/assets/4a22e1f9-dd77-48ae-8fcd-12415616bb26)
+
