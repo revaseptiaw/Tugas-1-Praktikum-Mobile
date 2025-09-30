@@ -12,6 +12,6 @@ Project Android ini terdiri dari beberapa komponen utama yang saling terhubung, 
 ### Tampilan Aplikasi Tugas 2 Pertemuan 3
 ![Image](https://github.com/user-attachments/assets/4a22e1f9-dd77-48ae-8fcd-12415616bb26)
 
-#### Tampilan Aplikasi Tugas 3 Pertemuan 4
+### Tampilan Aplikasi Tugas 3 Pertemuan 4
 ![Image](https://github.com/user-attachments/assets/591f87b9-cd65-41b8-85d1-37bf61b5f824)
 
