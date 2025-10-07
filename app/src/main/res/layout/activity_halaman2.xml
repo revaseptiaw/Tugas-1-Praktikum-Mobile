@@ -122,6 +122,15 @@
                     android:layout_marginTop="12dp"
                     android:layout_marginBottom="12dp" />
 
+                <!-- Koleksi Buku -->
+                <include
+                    android:id="@+id/layout_buku"
+                    layout="@layout/layout_menu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="12dp" />
+
                 <!-- Alamat -->
                 <include
                     android:id="@+id/layout_location"

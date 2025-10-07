@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.PrakMobileIF1" parent="Base.Theme.PrakMobileIF1" />
+    <style name="ThemeOverlay_App_BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog" />
+
 </resources>
